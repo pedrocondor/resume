@@ -1,46 +1,71 @@
-# Pedro Grondona
+# Pedro Tomás Grondona 🚀
 
-## Summary
+📍 Buenos Aires, Argentina  
+✉️ pedrotgrondona@gmail.com  
+📞 (+54 9 11) 6218 7566  
 
-Highly skilled and passionate tech enthusiast with over a decade of hands-on experience designing and implementing data-focused solutions and products. A seasoned team leader, lecturer, and consultant with a robust portfolio of engagements for LATAM fintechs and telco corporations. Adept with cutting-edge tools and systems such as Kafka, OLAP Modelling, MPP, ML, and Edge Computing.
+## About Me 🧑‍💻
 
-## Experience
+DOB: 1992/06/17  
+Nationality: Argentinian  
+Studies: Complete  
+English Level: C1  
 
-### Senior Data Engineer, Nubiral
-*Leading a team of 80+ engineers across LATAM on multiple cloud-native and cloud migration projects. Utilized distributed Spark in the architecture of big data solutions. Played a crucial role in achieving the AWS Data Analytics Competency (Top 5 in LATAM) and actively promote Agile methodologies.*
+Passionate about technology and innovation, with 10+ years of experience designing and implementing data-focused solutions and products for enterprises and leading multidisciplinary teams.
 
-### Tech Leader & Cloud Engineer, IDB Bank
-*Contributed in various roles from 2013 to 2020, notably collaborating with Datawheel to modernize the data analytics platform.*
+## Skills & Expertise 🛠
 
-## Skills
+- Managing Technical Teams, Lecturer, Consulting for LATAM Fintechs, and Telco corp 🏢
+- Expert in Data Analytics and Advanced Analytics - Real Time Inferences, Kafka, OLAP Modelling, MPP, ML, Edge Computing 📊
+- Architecting Full Stack High Volume Distributed PaaS, SaaS 📡
+- Working with BI teams and Business Stakeholders for Analytics Strategy Planning 📝
+- Managing AWS, Azure, GCP in production environments ☁️
+- Big Data Environments architecture design and implementation, Data Lakes, Data Mesh, HIVE, Presto, EMR, Airflow 🗄
+- Object Oriented Programming - Python, JS, Java 🖥
+- Architecting AI Workloads (ML, DL) platforms on Azure and AWS 🧠
+- DataOps, MLOps, Automation 🔄
+- Enthusiast for constant exploration and learning the latest cloud services (AWS, AZURE, GCP), technologies - ML, Orchestration Frameworks, Serverless and CI/CD tools 🕵️‍♂️
+- DevOps Engineer, Container Orchestration, CI/CD - GitOps - IAC Ansible - Terraform - CDK (Python) ⚙️
+- Experience with various DBs including: MSSQL, Aurora, PostgreSQL, MongoDB, Redis 🗃
 
-- Full-stack, high-volume distributed PaaS and SaaS solutions
-- Managing AWS, Azure, and GCP in production environments
-- Architecting big data environments and designing AI workloads on Azure and AWS
-- Extensive DevOps experience with CI/CD tools and container orchestration
-- Proficient in various DBs such as MSSQL, Aurora, PostgreSQL, MongoDB, and Redis
+## Professional Experience 🏢
 
-## Certifications
+### Nubiral (2020 - Present)
 
-- AWS Certified Solutions Architect
-- AWS Certified Data Analytics Specialist
-- Microsoft Certified Azure Administrator Associate
-- Microsoft Certified Data Engineer
-- Microsoft Certified DevOps Engineer
+- **Technical Manager (2021 - Present)** 
+  - Leading 80+ Engineers Across LATAM
+  - Leading Multiple Cloud Native and Cloud Migration Projects
+  - Accomplished AWS Data Analytics Competency (TOP 5 LATAM)
+  - Teaching and implementing Agile Methodologies. DevOps, DataOps, MLOps
+  
+- **Senior Data Engineer (2020 -2021)**
+  - Designed and implemented Distributed Big Data Analytics Solutions
+  - Designed and implemented Machine Learning Solutions and Products
+  
+- **Tech Leader (2020)**
+  - Designed and developed scripts in various languages (Python, Bash, JS) for DataOps Tasks
+  - DevOps Engineering role in various projects on AWS, Azure, and GCP
+  - Implemented CI/CD with Jenkins, GitLab CI/CD, Azure DevOps
+  - Designed and implemented Resilient Cloud Platforms Solutions
 
-## Education
+### IDB Bank (2013 - 2020)
 
-- Bachelor of Science in IT, UADE
-- Studied Software Engineering at CAECE
+- Various roles across departments, including Tech Leader, AWS Cloud Engineer, AWS Data Engineering, and DBA MSSQL Server.
 
-## Languages
+## Academic Training / Certifications 🎓
 
-- Fluent in English
-- Native Spanish speaker
+- AWS Certified Solutions Architect — Associate (SAA-C02)
+- AWS Certified Data Analytics - Specialty (DAS-C01)
+- Azure AZ-400 - Microsoft Certified: DevOps Engineer Expert
+- Azure AZ-104 - Microsoft Certified: Azure Administrator Associate
+- Azure DP-203 - Microsoft Certified: Azure Data Engineer Associate
 
-## Contact
+## Education 📚
 
-- Email: [pedrotgrondona@gmail.com](mailto:pedrotgrondona@gmail.com)
-- Phone: [(+54 9 11) 6218 7566](tel:+5491162187566)
+- Bachelor of Science in Information Technology, UADE (2014 - 2020)
+- Software Engineering, CAECE (2011 - 2014)
 
-Based out of Buenos Aires, Argentina. Always open for a good tech conversation and coffee!
+## Languages 🗣
+
+- English: Fluent
+- Spanish: Native
