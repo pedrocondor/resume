@@ -6,7 +6,6 @@
 
 ## About Me 🧑‍💻
 
-DOB: 1992/06/17  
 Nationality: Argentinian  
 Studies: Complete  
 English Level: C1  
@@ -20,7 +19,7 @@ Passionate about technology and innovation, with 10+ years of experience designi
 - Architecting Full Stack High Volume Distributed PaaS, SaaS 📡
 - Working with BI teams and Business Stakeholders for Analytics Strategy Planning 📝
 - Managing AWS, Azure, GCP in production environments ☁️
-- Big Data Environments architecture design and implementation, Data Lakes, Data Mesh, HIVE, Presto, EMR, Airflow 🗄
+- Big Data Environments architecture design and implementation, Data Lakes, Delta Lakes, HIVE, Presto, EMR, Glue, Spark, Airflow 🗄
 - Object Oriented Programming - Python, JS, Java 🖥
 - Architecting AI Workloads (ML, DL) platforms on Azure and AWS 🧠
 - DataOps, MLOps, Automation 🔄
